@@ -8,7 +8,7 @@ Baza różnych wydań JRWA
 - csv - kodowanie `utf-8`, rozdzielony `;`
 - markdown - kodowanie `utf-8`
 
-[Wyświetl JRWA 2011](http://profesor-oskar.github.io/JRWA/JRWA-2011.html)
+[Wyświetl JRWA 2011](http://profesor-oskar.github.io/JRWA/DOCS/JRWA-2011.html)
 
 ### Import do arkuszy kalkulacyjnych
 
