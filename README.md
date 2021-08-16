@@ -1,4 +1,4 @@
-﻿#Baza Jednolitych Rzeczowych Wykazów Akt dla gmin
+# Baza Jednolitych Rzeczowych Wykazów Akt dla gmin
 
 Baza różnych wydań JRWA
 
