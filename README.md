@@ -20,7 +20,8 @@ Podczas importu należy wybrać kodowanie `utf-8`, kolumny rozdzielone `;`, form
 
 ### O wydaniu
 
-Wersja 0.0-beta Pre-relese zawiara błędy uniemożliwiające import do baz danych. Niekróre hasła zostały podzielone na dwie komórki.
+- baza w formacie csv gotowa do urzytku,
+- w wizualizacji danych w postaci md nieliczne błędy (
 
 ### Archiwum
 Brak wcześniejszych wydań
